@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Mover.cs" />
+    <Compile Include="Assets\Scripts\Counter\CounterView.cs" />
     <Compile Include="Assets\Scripts\ScaleUp.cs" />
     <Compile Include="Assets\Scripts\Counter\Counter.cs" />
     <Compile Include="Assets\Scripts\Rotate.cs" />
